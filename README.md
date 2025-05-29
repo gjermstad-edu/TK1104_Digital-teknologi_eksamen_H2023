@@ -6,4 +6,6 @@
 
 Dette er min individuelle besvarelse på eksamen i **TK1104 Digital teknologi** ved Høyskolen Kristiania høsten 2023 (1. semester i utdanningen min).
 
+-----
+
 Foreleser i faget var [Marcus Alexander Dahl](https://www.linkedin.com/in/marcus-alexander-dahl/).
